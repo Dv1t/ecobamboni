@@ -92,3 +92,7 @@ D:\Учёба\Хакатон\Ecobamboni\Ecobamboni\obj\Debug\Ecobamboni.csprojAs
 D:\Учёба\Хакатон\Ecobamboni\Ecobamboni\obj\Debug\Ecobamboni.csproj.CopyComplete
 D:\Учёба\Хакатон\Ecobamboni\Ecobamboni\obj\Debug\Ecobamboni.dll
 D:\Учёба\Хакатон\Ecobamboni\Ecobamboni\obj\Debug\Ecobamboni.pdb
+D:\Учёба\Хакатон\Ecobamboni\Ecobamboni\bin\EntityFramework.dll
+D:\Учёба\Хакатон\Ecobamboni\Ecobamboni\bin\EntityFramework.SqlServer.dll
+D:\Учёба\Хакатон\Ecobamboni\Ecobamboni\bin\EntityFramework.xml
+D:\Учёба\Хакатон\Ecobamboni\Ecobamboni\bin\EntityFramework.SqlServer.xml

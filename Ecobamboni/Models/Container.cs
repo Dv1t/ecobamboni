@@ -1,16 +1,16 @@
-﻿namespace Ecobamboni.Models
+﻿using System;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+
+namespace Ecobamboni.Models
 {
+
     public class Container
     {
-        public readonly int ID;
-        public string Location;
-        public bool Fullness;
+        [Key]
+        public int Id { get; set; }
 
-        public Container(int id, string location)
-        {
-            ID = id;
-            Location = location;
-            Fullness = false;
-        }
+        public string Location { get; set; }
+        public int Fullness { get; set; }
     }
 }

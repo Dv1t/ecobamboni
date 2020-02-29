@@ -7,12 +7,10 @@ namespace Ecobamboni.Models
     {
         public List<Container> Containers;
         public readonly DateTime RequestBirthday;
-        public readonly string Creator;
 
-        public Request(List<Container>containers,string creator)
+        public Request(List<Container>containers)
         {
             Containers = containers;
-            Creator = creator;
             RequestBirthday = System.DateTime.UtcNow;
         }
     }
