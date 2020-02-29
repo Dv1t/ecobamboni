@@ -9,8 +9,8 @@ namespace Ecobamboni.Models
     {
         [Key]
         public int Id { get; set; }
-
         public string Location { get; set; }
         public int Fullness { get; set; }
+        public string Owner { get; set; }
     }
 }

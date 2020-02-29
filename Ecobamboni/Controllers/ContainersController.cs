@@ -83,6 +83,7 @@ namespace Ecobamboni.Controllers
                 var oldContainer = db.Containers.Find(container.Id);
                 oldContainer.Fullness = container.Fullness;
                 oldContainer.Location = container.Location;
+                oldContainer.Owner = container.Owner;
             }
             else
             {
